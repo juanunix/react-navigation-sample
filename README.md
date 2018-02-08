@@ -1,4 +1,4 @@
 # react-navigation-sample
 Sample App for react-navigation
 
-![react-navigation-sample](https://imgur.com/a/ZTnF9)
+[Imgur](https://i.imgur.com/Cnktccl.gifv)
